@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190265990580",
+    "project_id": "pmdm-69874",
+    "storage_bucket": "pmdm-69874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190265990580:android:3b3bc4579bc87ddd9866e1",
+        "android_client_info": {
+          "package_name": "com.example.ej12mercader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190265990580-se45mv6vv7j7ckjqrvc65j281a30kpad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGYHOn3vNLDcMnAyK54-pgHnWsvPA3ZbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190265990580-se45mv6vv7j7ckjqrvc65j281a30kpad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
